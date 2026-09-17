@@ -8,26 +8,26 @@ My main focus is **Frontend Development**, while I'm continuously expanding my s
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-* 🎓 Software Engineering Graduate from **Zarqa University**
-* 💻 Interested in **Frontend & Full-Stack Web Development**
-* 🚀 Experienced with modern JavaScript and React-based technologies
-* 🌐 Interested in building responsive and user-friendly web applications
-* 🤖 Exploring **AI Agents** and AI-powered applications using **Claude**
-* 📚 Always learning and improving my development skills
-* 🛠️ Enjoy turning ideas and requirements into practical web applications
-
----
-
-## 🤝 Connect With Me
-
-* 💼 LinkedIn: [Ahmad Ayman](linkedin.com/in/ahmad-aldakhlallah)
-* 📧 Email: ahmad.ayman.prof@gmail.com
+* Software Engineering Graduate from **Zarqa University**
+* Interested in **Frontend & Full-Stack Web Development**
+* Experienced with modern JavaScript and React-based technologies
+* Interested in building responsive and user-friendly web applications
+* Exploring **AI Agents** and AI-powered applications using **Claude**
+* Always learning and improving my development skills
+* Enjoy turning ideas and requirements into practical web applications
 
 ---
 
-## 🧰 Tech Stack
+## Connect With Me
+
+* LinkedIn: [Ahmad Ayman](linkedin.com/in/ahmad-aldakhlallah)
+* Email: ahmad.ayman.prof@gmail.com
+
+---
+
+## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
@@ -37,7 +37,6 @@ My main focus is **Frontend Development**, while I'm continuously expanding my s
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vue.js\&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
@@ -55,9 +54,9 @@ My main focus is **Frontend Development**, while I'm continuously expanding my s
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
-### 🎓 PG Academy — Online Learning Platform
+### PG Academy — Online Learning Platform 🎓
 
 A full-stack online learning platform developed as a graduation project.
 
@@ -78,7 +77,7 @@ The platform provides different experiences for **Students, Instructors, and Adm
 
 ---
 
-## 📚 Training & Learning
+## Training & Learning
 
 ### DOT Jordan
 
@@ -104,7 +103,7 @@ Currently expanding my knowledge in **AI Agents and AI-powered applications**, i
 
 ---
 
-## 🎯 Current Goals
+## Current Goals
 
 * 🔹 Building production-quality React & Next.js applications
 * 🔹 Strengthening Backend and API development skills
@@ -115,6 +114,4 @@ Currently expanding my knowledge in **AI Agents and AI-powered applications**, i
 
 ---
 
-### 💡 Always learning. Always building. Always improving.
-
-⭐ Feel free to explore my repositories and projects.
+### Always learning. Always building. Always improving.
