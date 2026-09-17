@@ -75,6 +75,10 @@ The platform provides different experiences for **Students, Instructors, and Adm
 * Responsive UI
 * Internationalization (English / Arabic)
 
+#### Live Demo
+
+[View Live Project](http://20.52.159.221/)
+
 ---
 
 ## Training & Learning
